@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height: 10rem;
+    background-color: wheat;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.colourbox{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+}
+
+body{
+    background-image: linear-gradient(to right, #32b382, #32b897);
+}
